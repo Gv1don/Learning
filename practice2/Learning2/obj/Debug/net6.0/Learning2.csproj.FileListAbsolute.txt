@@ -1,0 +1,15 @@
+C:\C#\Learning2\Learning2\bin\Debug\net6.0\Learning2.exe
+C:\C#\Learning2\Learning2\bin\Debug\net6.0\Learning2.deps.json
+C:\C#\Learning2\Learning2\bin\Debug\net6.0\Learning2.runtimeconfig.json
+C:\C#\Learning2\Learning2\bin\Debug\net6.0\Learning2.dll
+C:\C#\Learning2\Learning2\bin\Debug\net6.0\ref\Learning2.dll
+C:\C#\Learning2\Learning2\bin\Debug\net6.0\Learning2.pdb
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.csproj.AssemblyReference.cache
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.AssemblyInfoInputs.cache
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.AssemblyInfo.cs
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.csproj.CoreCompileInputs.cache
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.dll
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\ref\Learning2.dll
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.pdb
+C:\C#\Learning2\Learning2\obj\Debug\net6.0\Learning2.genruntimeconfig.cache
